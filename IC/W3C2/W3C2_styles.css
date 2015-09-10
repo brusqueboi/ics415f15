@@ -1,0 +1,21 @@
+div#nav, nav{
+  width: 95%;
+  margin-left: 2.5%;
+}
+
+div#header, header{
+  font-family: 'Orbitron', sans-serif;
+  font-size: 48px;
+  text-align: center;
+}
+
+div#body, body{
+  width: 100%;
+}
+div#section, section{
+  width: 100%;
+  display: inline-flex;
+}
+div#aside, aside{
+  padding-left: 13%;
+}
