@@ -1,0 +1,11 @@
+div#nav, nav{
+  width: 95%;
+  margin-left: 2.5%;
+}
+
+div#header, header{
+  font-family: 'Orbitron', sans-serif;
+  font-size: 48px;
+  text-align: center;
+}
+
